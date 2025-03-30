@@ -1,4 +1,4 @@
-# Colblor Game Documentation
+# Colblor Game Server Documentation
 
 [This page in English.](README.md)
 

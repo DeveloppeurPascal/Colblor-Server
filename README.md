@@ -1,4 +1,4 @@
-# Colblor Game Documentation
+# Colblor Game Server Documentation
 
 [Cette page en français.](LISEZMOI.md)
 
